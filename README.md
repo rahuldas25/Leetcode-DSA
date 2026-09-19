@@ -8,6 +8,7 @@ DSA important problems
 | ------- | ------- |
 | [0001-two-sum](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,4 +27,12 @@ DSA important problems
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahuldas25/Leetcode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
